@@ -10,9 +10,6 @@ A new Flutter project of my bootcamp. It contains two pages
  3. Update your old Note
  4. Dynamic UI with real-time update using Statefulwidgets
 
-### What I Did
-      1. In this project i create a notes app with a homepage where it will show all the notes in grid view, create a new notes and update your old notes. In my program i create a color view in the home page.
-
 ## Screenshot
    ### Homepage
    ![image](https://github.com/user-attachments/assets/6be96dc5-f130-43fa-8b62-8e6fc02e64fd)
