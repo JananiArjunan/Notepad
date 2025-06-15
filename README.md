@@ -14,4 +14,9 @@ A new Flutter project of my bootcamp. It contains two pages
       1. In this project i create a notes app with a homepage where it will show all the notes in grid view, create a new notes and update your old notes. In my program i create a color view in the home page.
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/35d0d94b-ddb1-4074-90d2-3bac6d5aa467)
+   ### Homepage
+     ![image](https://github.com/user-attachments/assets/6be96dc5-f130-43fa-8b62-8e6fc02e64fd)
+   ### Detail Note Page
+     ![image](https://github.com/user-attachments/assets/d49e85ef-1b46-44f4-9872-14f1ddbbca7a)
+   ### Add Note
+     ![image](https://github.com/user-attachments/assets/a3f03a4f-4953-4d77-9f94-02031f4d23d4)
