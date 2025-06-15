@@ -7,5 +7,6 @@ A new Flutter project of my bootcamp. It contains two pages
 ## Features
  1. List all notes in Home Page
  2. Create a new note
- 3. Dynamic UI with real-time update using Statefulwidgets
- 
+ 3. Update your old Note
+ 4. Dynamic UI with real-time update using Statefulwidgets
+
